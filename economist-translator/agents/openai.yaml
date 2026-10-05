@@ -1,0 +1,4 @@
+interface:
+  display_name: "Economist Translator"
+  short_description: "Translate Economist articles into natural Mandarin PDFs"
+  default_prompt: "Use $economist-translator to translate this Economist article paragraph by paragraph into natural Mandarin and create a PDF with its original images."
